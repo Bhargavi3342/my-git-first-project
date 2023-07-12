@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test">
+    <classes>
+      <class name="testNGDemo.NewTest"/>
+      <class name="testNGDemo.TestNGDemo1"/>
+      <class name="testNGDemo.TestNGDemo2"/>
+      <class name="testNGDemo.TestNGDemo3"/>
+      <class name="testNGDemo.TestNGDemo4"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

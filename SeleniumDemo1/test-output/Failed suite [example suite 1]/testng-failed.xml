@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Failed suite [example suite 1]]">
+  <test name="Regression suite 1(failed)(failed)">
+    <classes>
+      <class name="testNGDemo.TestNGDemo3">
+        <methods>
+          <include name="funC"/>
+          <include name="funB"/>
+        </methods>
+      </class> <!-- testNGDemo.TestNGDemo3 -->
+      <class name="testNGDemo.TestNGDemo4">
+        <methods>
+          <include name="loginTest"/>
+          <include name="customerDetails"/>
+        </methods>
+      </class> <!-- testNGDemo.TestNGDemo4 -->
+    </classes>
+  </test> <!-- Regression suite 1(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [example suite 1]] -->

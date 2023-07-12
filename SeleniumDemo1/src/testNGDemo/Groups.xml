@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Sample Suite">
+  <test name="testing">
+  	<groups>
+      <run>
+        <include name="regression"/>
+      </run>
+    </groups>
+    <classes>
+       <class name="testNGDemo.TestNGGroupDemo1" />
+    </classes>
+  </test>
+</suite>
